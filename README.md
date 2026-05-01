@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Divya Hiranwal 
 
-<!--
-**divyahiranwal/divyahiranwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am learning Java and Data Science and building projects step by step.
 
-Here are some ideas to get you started:
+I have also written a beginner friendly book named **Cloud Computing Easy Hai**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java
+- NetBeans
+- MySQL
+- Data Science Basics
+- Git & GitHub
+
+## Current Project
+- Hotel Management System in Java
+
+## Thanks for visiting my profile 
