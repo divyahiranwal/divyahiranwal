@@ -1,17 +1,25 @@
-## Hi, I'm Divya Hiranwal 
+# Hi  I'm Divya Hiranwal
 
-I am learning Java and Data Science and building projects step by step.
+### Java Developer | Data Science Learner | Author
 
-I have also written a beginner friendly book named **Cloud Computing Easy Hai**.
+I am building my coding journey step by step and sharing my work here on GitHub.
 
-## Skills
+ **Book Written:** Cloud Computing Easy Hai
+
+---
+
+##  Skills
 - Java
 - NetBeans
 - MySQL
 - Data Science Basics
 - Git & GitHub
 
-## Current Project
+---
+
+##  Current Project
 - Hotel Management System in Java
 
-## Thanks for visiting my profile 
+---
+
+### Thanks for visiting my profile 
