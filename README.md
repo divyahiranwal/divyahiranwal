@@ -6,8 +6,6 @@ I am building my coding journey step by step and sharing my work here on GitHub.
 
  **Book Written:** Cloud Computing Easy Hai
 
----
-
 ##  Skills
 - Java
 - NetBeans
